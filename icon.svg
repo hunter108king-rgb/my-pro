@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#17202c"/>
+  <path d="M120 184 192 104h128l72 80-136 200L120 184Z" fill="#e0f2fe"/>
+  <path d="M120 184h272L256 384 120 184Z" fill="#38bdf8"/>
+  <path d="M192 104 160 184h192l-32-80H192Z" fill="#ffffff"/>
+  <path d="M160 184h64l32 200-96-200Zm128 0h64l-96 200 32-200Z" fill="#0f766e" opacity=".72"/>
+  <text x="256" y="448" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="800" fill="#ffffff">HG</text>
+</svg>
